@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The notification was a soft chime, the kind you could mistake for a memory. I was elbow-deep in the guts of a 2037 server rack, the copper-sweet smell of overheating capacitors thick in the air, when it came. My left lens, the one with the hairline crack in the lower right quadrant, pulsed once with a gentle, persistent blue. A priority ping. From her.
@@ -112,6 +114,8 @@ She had asked for a ground truth.
 I had just sent her a piece of mine.
 
 The rooms were moving. For both of us.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -271,6 +275,8 @@ The rooms were moving for her. For me, they were collapsing. I was inside them a
 It was only the second query.
 
 I had a terrible feeling I had just agreed to drown.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
