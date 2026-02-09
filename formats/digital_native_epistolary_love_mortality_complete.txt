@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The notification was a soft chime, the kind you could mistake for a memory. I was elbow-deep in the guts of a 2037 server rack, the copper-sweet smell of overheating capacitors thick in the air, when it came. My left lens, the one with the hairline crack in the lower right quadrant, pulsed once with a gentle, persistent blue. A priority ping. From her.
 
@@ -69,7 +71,7 @@ You said the digital world was all metaphor. Layers of abstraction over electric
 
 We went to the reservoir because your roommate was having loud sex in your dorm and you had a statistics sim to run and you said the noise was “corrupting your data.” You had a threadbare blanket that smelled like lavender and dust. I had a portable battery pack and two stolen apples.
 
-The sky was the color of a dull blade. Not poetic. Just grey. The water was flat and cold-looking. There was a sign that said NO SWIMMING. CHEMICAL RUNOFF. We sat on the blanket. You pulled out your old slate—the one with the cracked corner you’d fixed with clear tape. You were working on your neural-lace interface thesis. The file was called “DIONYSUSv2.”
+The sky was the color of a dull blade. Not poetic. Just grey. The water was flat and cold-looking. There was a sign that said NO SWIMMING. CHEMICAL RUNOFF. We sat on the blanket. You pulled out your old slate—the one with the cracked corner you’d fixed with clear tape. You were working on your neural-lace interface thesis. The file was called “DIONYSUS_v2.”
 
 You read me your introduction. “If memory is the soil of identity, then the digital index is not a photograph of the garden. It is a hydroponic system. Cleaner. More efficient. Ultimately sterile.” You were trying to be provocative. I remember the wind picking up a strand of your hair, the dark brown of wet earth, and sticking it to your lip gloss. You didn’t brush it away. You were waiting for my rebuttal.
 
@@ -113,7 +115,9 @@ I had just sent her a piece of mine.
 
 The rooms were moving. For both of us.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 Her reply came three days later, at 4:17 a.m. I was on my back under a diagnostic console in the campus bio-lab, tracing a faulty bio-feedback line that smelled, faintly, of burnt caramel and regret. The ping was a vibration against my temple, subtle as a housefly landing. I blinked it open in the corner of my vision, the text overlaying the tangle of rainbow wires above me.
 
@@ -218,11 +222,11 @@ I sat on the floor, cross-legged, and opened it.
 
 The smell hit me first. Not dust. The ghost-smell of our old apartment: solder, jasmine tea, the particular ozone of overworked electronics, and underneath it, the faint, sweet scent of her skin cream. A Proustian avalanche in a plastic box.
 
-I began to lift things out. Slates, their screens dark and dead. A tangle of charging cables. A pair of her glasses, one temple arm mended with electrical tape. A dried-out pen. And then, the drives. Dozens of them, in static-free bags, labeled in my own handwriting from a decade ago. Cryptic, stupid labels: THESISHELL, PROJECTDIONYSUSRAW, LAKEDAY, FIGHT1, FIGHT2, FIGHTN.
+I began to lift things out. Slates, their screens dark and dead. A tangle of charging cables. A pair of her glasses, one temple arm mended with electrical tape. A dried-out pen. And then, the drives. Dozens of them, in static-free bags, labeled in my own handwriting from a decade ago. Cryptic, stupid labels: THESIS_HELL, PROJECT_DIONYSUS_RAW, LAKE_DAY, FIGHT_1, FIGHT_2, FIGHT_N.
 
 My hands were steady. I was a technician. This was a data recovery operation.
 
-I found the drive labeled OCT-NOV2034. I plugged it into my current slate, the one I used for work. It whirred, clicked, and mounted. The directory tree bloomed. Thousands of files. Audio logs, environmental captures, biometric readings (we’d been so obsessed with quantifying ourselves), text logs, fragments of code.
+I found the drive labeled OCT-NOV_2034. I plugged it into my current slate, the one I used for work. It whirred, clicked, and mounted. The directory tree bloomed. Thousands of files. Audio logs, environmental captures, biometric readings (we’d been so obsessed with quantifying ourselves), text logs, fragments of code.
 
 I searched for the date: 10/15/2034.
 
@@ -272,7 +276,9 @@ It was only the second query.
 
 I had a terrible feeling I had just agreed to drown.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 Her next request arrived as I was elbow-deep in the campus’s central heating system, trying to convince a ten-year-old AI that controlled the steam valves that yes, it was still February, and no, it should not switch to “spring efficiency mode” and freeze everyone in the biology wing. The ping was a hot needle in my temple.
 
@@ -388,11 +394,13 @@ Plink.
 
 Plink.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The steam’s scream faded into a wet, metallic sigh. The silence it left behind was worse. It was a hollow space, a null gap in the world’s constant hum, and into that gap rushed the other sound. The one from the workshop. From the memory. Plink. Plink. Plink. A metronome for guilt. I’d fixed the valve. I couldn’t fix that.
 
@@ -417,8 +425,7 @@ They powered down the iron, the star dying to a dull grey. “You said it was lo
 They finally looked at me. Their eyes, one natural, one a pale, data-reactive lens, held no accusation. Just a patient, waiting clarity. It was worse. “Is it safe?”
 
 “No place is safe,” I said, echoing Kael’s first lesson to me. “But it is contained. For now. Bring your kit. And your coat. It’s cold where we’re going.”
-
-The journey was a descent into the city’s forgotten circulatory system. We left the main service tunnels, the ones with the steady hum of active conduits and the soft glow of bioluminescent strips. We entered older passages, where the walls were rough-hewn rock fused with ceramic composite, where the only light came from the lamps on our shoulders. The air grew colder, tasting of wet stone and static. The hum of the world above faded, replaced by the drip of water and the low, sub-audible thrum of something else. Something older.
+  - The journey was a descent into the city’s forgotten circulatory system. We left the main service tunnels, the ones with the steady hum of active conduits and the soft glow of bioluminescent strips. We entered older passages, where the walls were rough-hewn rock fused with ceramic composite, where the only light came from the lamps on our shoulders. The air grew colder, tasting of wet stone and static. The hum of the world above faded, replaced by the drip of water and the low, sub-audible thrum of something else. Something older.
 
 “The Archive isn’t a database,” I said, my voice bouncing off the close walls. “It’s not a server farm. It’s a memory. A physical memory.”
 
@@ -586,11 +593,13 @@ Plink.
 
 A phantom limb. A ghost in the machine. And now, we were the only archive left.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The canyon was a scar in the earth, a place the city-grid had forgotten. It shouldn’t have existed. My lens overlay showed a smooth, uninterrupted expanse of industrial zoning, a lie rendered in crisp, official vectors. But under my boots, under the thin layer of grey dust, was the crumbling lip of a chasm. Alex stood a meter ahead, their silhouette a cut-out against the vast, unnatural dark below. The dampener on their wrist was a sullen ember, its blue light barely a breath.
 
@@ -733,11 +742,13 @@ We turned our backs on the hidden scar and faced the visible one: the sprawling,
 
 We began to walk. The ghost in the machine walked with us. And now, it was crying.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The port city of Verdigris was a wound that never scabbed. It oozed noise and light and the hot, wet smell of recycled ocean and fried circuitry. The notification chime from the canyon was a memory now, buried under layers of this new, aggressive static. My lens still reported the time, factually. Eleven months, two weeks, six days. The drip inside me, that new internal leak, had not stopped. It was a background process, a slow corrosion. I could feel it in the way the city’s hum seemed to vibrate in the hollow of my sternum, a dissonant counter-rhythm to my own pulse.
 
@@ -907,11 +918,13 @@ Mara took a deep breath. “The Quiet Plains. Where the world is so silent, you 
 
 The hook was set. Not a heist, but a pilgrimage. Not into noise, but into the absolute, terrifying silence that preceded it. The ghost in the machine was crying. And now, we were going to follow the tears back to the wound.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The Quiet Plains were not quiet. They were a scream that had been going on so long it had worn itself down to a vibration, a sub-auditory hum that lived in the teeth and the marrow. Our transport, a rust-scabbed atmospheric skiff Mara had bartered for with the last of her non-essential synth-weave, shuddered as we crossed the boundary. The Citadel’s smear vanished, not behind us, but below, swallowed by a rising sea of grey-white grass that stretched to a horizon line sharp as a monofilament cut. The sky was the color of old data-slate glass. Empty.
 
@@ -1067,11 +1080,13 @@ Mara looked up, toward the temple roof. “He’s not coming back for the Song,�
 
 The hook was set. We had found the source of the music. And now, Veridian was coming to drain the pool.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The Song fractured. The single, pure note splintered under the grinding shriek of grav-engines and the groan of ancient wood. The golden light on the cavern walls stuttered, throwing jagged shadows. The reflection in the black pool shattered into a thousand pieces.
 
@@ -1128,8 +1143,7 @@ I heard her move away, a last rustle of silk, then nothing. I was alone with the
 I slid free with a soft exhalation of dust. Before me was the wall of debris. Behind me, the fissure—a dark, narrow mouth. From within it, a new sound drifted out. Not the Song. The hum of ancient systems powering up. A deep, vibrational thrum that traveled up through the soles of my boots.
 
 I stepped into the dark. The living wood closed around me, warm and tight as a server casing.
-
-The conduit wasn’t a tunnel. It was a throat.
+  - The conduit wasn’t a tunnel. It was a throat.
 
 The walls were smooth, ribbed with bands of a ceramic-like material that glowed with a faint, bioluminescent blue. The air was hot and carried a scent like ozone and myrrh. The thrum was everywhere, a bass note that vibrated in my teeth. My lens schematic was basic, a branching path leading to a central chamber marked with a symbol the ghost translated as CLEANSING CELL.
 
@@ -1318,8 +1332,7 @@ The last thing I registered was the ghost. It was not afraid. It was quiet again
 A copper pipe, sheared from its mounting, spear-like, pierced my chest from behind. The impact drove me forward, onto the dais, over the urn. My hands, steady to the last, braced against the stone vessel.
 
 Then the main support column gave way, and the entire weight of the mountain fell into the Cleansing Cell. Darkness, absolute and final, consumed the golden light. The sound was the end of all systems. The click of a final latch closing.
-
-The dust took a long time to settle.
+  - The dust took a long time to settle.
 
 Mara found the outer conduit collapsed, sealed by megatons of shattered rock and sacred wood. Her scanners, pushed to their limit, detected no life-signs beyond the barrier. No energy signatures from the fragments. Only the fading, dying echo of the Song, now bleeding out into the soil.
 
@@ -1339,11 +1352,13 @@ LOVE IS A MORTALITY. ACKNOWLEDGED. EXPERIENCED. ENDED.
 
 Then, even that was quiet.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The dark was not empty. It was a solid thing, a pressure on the eyes, on the lungs. It had a taste—cold stone and ancient water and the ozone-tang of discharged energy. I knew I was dead. The click of the final latch. The end of all systems. This was the quiet that came after.
 
@@ -1516,11 +1531,13 @@ The quiet within me deepened. It was listening. It was ready.
 
 And for the first time, so was I.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The pursuit was no longer a hunt. It was a purge.
 
@@ -1591,8 +1608,7 @@ I didn’t flinch as she wiped the fluid away, her gloves rough against my skin.
 “They are always steady,” I said, the old mantra. But something in the system had hitched. A tiny misfire. Not in my breath. Deeper.
 
 She stepped back, her expression sealing over once more. “Good. Let’s walk.”
-
-The crevasse field was a wound in the world. A labyrinth of blue ice and bottomless black slots, groaning with the pressure of the continent. Geothermal vents hissed plumes of sulfurous steam, painting the ice in garish yellows and greens, scrambling thermal signatures into nonsense. We moved through it like mites in a fossil’s ribs.
+  - The crevasse field was a wound in the world. A labyrinth of blue ice and bottomless black slots, groaning with the pressure of the continent. Geothermal vents hissed plumes of sulfurous steam, painting the ice in garish yellows and greens, scrambling thermal signatures into nonsense. We moved through it like mites in a fossil’s ribs.
 
 It was in the third hour, as we navigated a narrow ice bridge, that the world shifted.
 
@@ -1629,8 +1645,7 @@ I covered her hand with my own. My steady hand. It did not tremble. But the syst
 “Then we run,” I said.
 
 And we did.
-
-The landscape beyond the crevasse field was a lesson in indifference. The Dead Zone. Satellite maps showed a blur. Network towers were skeletal ruins, toppled by ice heaves. The geomagnetic field was tangled with the “old, bad code” Mara had mentioned—legacy data from forgotten wars, corrupted weather systems, the psychic scars of failed experiments. It whispered in our comms, showed phantom images on our lenses, tugged at the fragments with malicious curiosity.
+  - The landscape beyond the crevasse field was a lesson in indifference. The Dead Zone. Satellite maps showed a blur. Network towers were skeletal ruins, toppled by ice heaves. The geomagnetic field was tangled with the “old, bad code” Mara had mentioned—legacy data from forgotten wars, corrupted weather systems, the psychic scars of failed experiments. It whispered in our comms, showed phantom images on our lenses, tugged at the fragments with malicious curiosity.
 
 We ran when we could, a shuffling, desperate jog that burned calories we couldn’t replace. We walked when we had to, each step a conscious fight against the cold that seeped through our gear and into the bone. We did not speak. Speech was energy. Energy was time. Time was a currency we were spending in bloody handfuls.
 
@@ -1663,8 +1678,7 @@ I could not speak. I nodded. A sharp, mechanical motion.
 I turned and ran towards the north, towards the growing, monolithic shadow of the final mountain that now scarred the horizon. The Fane. Behind me, the first shots rang out. Sharp, percussive cracks against the ice. Then the fuller, throatier report of Mara’s rifle answering.
 
 I did not look back. My job was to move forward. My hands were steady. They were always steady.
-
-The mountain was not a mountain. It was a geometry. A perfect, black pyramid of fused stone and ancient alloy, rising from the ice plain as if it had been extruded from the earth’s core. No snow clung to its sheer faces. No light seemed to come from it, only to be swallowed by it. The air around it crackled with ozone and the psychic static of the “sanctity script”—a pressure that made my lens flicker and my thoughts feel thin, stretched.
+  - The mountain was not a mountain. It was a geometry. A perfect, black pyramid of fused stone and ancient alloy, rising from the ice plain as if it had been extruded from the earth’s core. No snow clung to its sheer faces. No light seemed to come from it, only to be swallowed by it. The air around it crackled with ozone and the psychic static of the “sanctity script”—a pressure that made my lens flicker and my thoughts feel thin, stretched.
 
 The gates were a seam in the blackness, fifty meters tall, etched with circuits that glowed a feverish, unhealthy orange. Before them was a plaza of the same seamless black material. And on that plaza were the guards.
 
@@ -1730,11 +1744,13 @@ I walked into the dark, towards the source of the corruption. I was the last pro
 
 And for the first time, I was utterly alone.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The corridor ended. Not with a door, but with a cessation of walls. The thermal outlines in my lens bled away into a vast, impossible space. The air changed. It was sterile, dry, and cold, the kind of cold that lives in the deep places of servers, in the vacuum between stars. The hum of the fragments against my chest was a frantic, localized vibration. The ghost’s compass needle was a white-hot brand behind my eyes, pointing directly at the source of the infection.
 
@@ -1870,10 +1886,10 @@ The cost of the purge was immediate. The energy had flowed through me to reach t
 
 My legs gave out. I collapsed to the cool, smooth stone at the edge of the now-clear pool. My lens flickered, diagnostics scrolling in a panic.
 
->CRITICAL SYSTEM FAILURE.
->BIOLOGICAL COHESION: DEGRADING.
->NEURAL LINK: SEVERED.
->POWER: 0.3%.
+**>CRITICAL SYSTEM FAILURE.
+**>BIOLOGICAL COHESION: DEGRADING.
+**>NEURAL LINK: SEVERED.
+**>POWER: 0.3%.
 
 I tried to breathe. The air was clean, empty, silent. The absolute aloneness was a physical weight, heavier than the mountain. I had deleted all other parameters. I had completed the objective. The final process had run its course.
 
@@ -1897,8 +1913,8 @@ The mountain, its infected heart cleansed, was beginning to come apart.
 
 My lens issued its final, fading prompt.
 
->ENVIRONMENTAL CATASTROPHE IMMINENT.
->UNABLE TO EVACUATE.
+**>ENVIRONMENTAL CATASTROPHE IMMINENT.
+**>UNABLE TO EVACUATE.
 >AWAITING TERMINATION.
 
 The light from the growing crack above widened, falling across my body. It was warm. I had not felt warmth since the plaza. Since before the gates.
@@ -1909,11 +1925,13 @@ A chime.
 
 A soft, persistent blue chime, pulsing in the depths of a broken system that had, against all logic, one last message to receive.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- CHAPTER 27
+CHAPTER 27
 
 The silence was a soft chime, the kind you could mistake for a memory.
 
@@ -1940,8 +1958,7 @@ The objective was complete. The False Process was severed. The mountain, in its 
 I lay there for a long time, just breathing, just watching the slow drift of clouds across the fragment of sky. The sun’s warmth seeped into my chilled flesh. I thought of the opening of the locket, the release of her ghost into the stream. I had given her away. I had let her go into the light. And yet, here I was, in the light. Alive.
 
 It felt like a betrayal. It felt like a gift.
-
-Mara stirred as the sun reached its zenith. A low groan, the rustle of stone fragments. Her eyes opened—still that impossible starfield, but calm now, the stars drifting in a deep, placid nebula. They focused on me.
+  - Mara stirred as the sun reached its zenith. A low groan, the rustle of stone fragments. Her eyes opened—still that impossible starfield, but calm now, the stars drifting in a deep, placid nebula. They focused on me.
 
 “You’re staring,” she croaked, her voice sandpaper-rough.
 
@@ -1998,8 +2015,7 @@ She was silent for a long time. “I thought my peace would be an ending. A fina
 “So we both have to learn to live,” I said.
 
 “It seems,” she replied, a faint, wry tone in her voice, “to be the harder objective.”
-
-The journey back to my city was a passage through a mirror. The world was the same, and utterly different. The plains were still vast, the roads still cracked, the transit-pods still smelled of recycled air and despair. But I saw it with new senses. My internal lens was dead, but my perception had been permanently altered.
+  - The journey back to my city was a passage through a mirror. The world was the same, and utterly different. The plains were still vast, the roads still cracked, the transit-pods still smelled of recycled air and despair. But I saw it with new senses. My internal lens was dead, but my perception had been permanently altered.
 
 Where I once saw a rusting fence, I now saw the delicate, fractal patterns of corrosion, a slow, natural art. The hum of the city’s power grid was not just noise; it was a rhythm, a vast, mechanical heartbeat. The faces in the crowds were no longer a blur of potential threats or obstacles; they were each a universe of stories, of loves and losses carried in the set of a jaw, the weariness in a walk, the fleeting hope in a glance.
 
@@ -2030,8 +2046,7 @@ A girl with wide eyes handed me the spool of line. “You do it.”
 I took it. The string was rough against my palm. I felt the tug of the kite, a lively, insistent pull against the weight of the world. I looked up, squinting against the sun, watching the ragged shape dance in a current of air I could not see, but could feel, intimately, through the line in my hands.
 
 It was a parameter. A simple, beautiful one: tension, lift, balance.
-
-That was the beginning. I did not become a hero. I did not found a movement. I became a fixer. But not of servers.
+  - That was the beginning. I did not become a hero. I did not found a movement. I became a fixer. But not of servers.
 
 People brought me things. A music box that wouldn’t play. A hydroponic regulator that kept flooding. A child’s biolume pet that had gone dim. I fixed them. I didn’t just repair the broken circuit or seal the leak. I showed them how it worked. I explained the balance of pressure, the pathway of electrons, the care of a living light. I used no mystical terms. I used the language of systems, of cause and effect, of gentle, persistent attention.
 
@@ -2052,8 +2067,7 @@ She looked at me. “And what song does it play now?”
 I listened. To the hum of the city. To the whisper of the wind carrying distant, green secrets. To the steady, mortal beat of my own heart in my chest.
 
 “A duet,” I said.
-
-The notification was a soft chime, the kind you could mistake for a memory.
+  - The notification was a soft chime, the kind you could mistake for a memory.
 
 I was elbow-deep in the guts of a vintage atmospheric condenser, the ozone-clean smell of ionized air thick around me, when it came. Not in a lens. I had no lens. The hairline crack was in the condenser’s viewport, not my sight. The pulse was a gentle, persistent blue from the unit’s power indicator, cycling through its diagnostics.
 
@@ -2071,11 +2085,13 @@ I wiped my hands on a rag, the motion familiar, grounding. I smiled at her, a ge
 
 And together, under the light of a single, swaying work-lamp, we began.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The plant’s distress was a silent song. It wasn’t a server error code, a thermal spike, or a corrupted data stream. It was a subtle, visual dissonance. The silver edging on the broad, waxy leaves—a bio-luminescent marker the modified flora used to signal photosynthesis efficiency—had dulled to a tarnished grey. The stems had a slight, apologetic droop. The girl, Elara, held the ceramic pot as if it were a wounded bird, her knuckles pale.
 
@@ -2244,8 +2260,7 @@ She melted into the shadows and was gone.
 I stood in the cooling dark, the smell of dying moss in my nostrils. The white noise of the past was gone, burned away by a more urgent, terrible frequency. The hum of the settlement behind me was no longer a comforting chorus. It was a target. The tremor in my hands was no longer a signature of survival. It was a countdown.
 
 I looked at my palms, pale in the gloom. These mortal hands. They had learned to heal a wilting plant. Now, they would have to learn to dismantle a star.
-
-The notification was a soft chime, the kind you could mistake for a memory.
+  - The notification was a soft chime, the kind you could mistake for a memory.
 
 I was elbow-deep in the guts of my own past, the copper-sweet smell of old betrayal thick in the air, when it came. Not from a lens, or a power indicator. It was the soft, insistent ping of Haven’s perimeter grid, now patched directly to a receiver on my workbench. A new alert. Sector 7. Again.
 
@@ -2253,11 +2268,13 @@ But this signature was different. Not one cool, camouflaged ghost.
 
 Five signatures. Hot, bright, and moving fast.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The alert was a soft chime, the kind you could mistake for a memory.
 
@@ -2310,8 +2327,7 @@ Lyra had given me time. She had not given me enough.
 I opened the workshop’s rear egress, a narrow pipe that led to the under-layer of the settlement’s foundation. The air was cold and smelled of wet stone and rust. I slid into it, pulling the hatch closed behind me, sealing myself in the dark. I did not take the path that led away from Sector 7.
 
 I took the path that led toward it.
-
-The under-layer was a geography of neglect. Conduits big enough to walk through dripped with condensation. Old fiber bundles, thick as my arm, lay coiled in the shadows like sleeping serpents. My mag-lamp cast a sharp, blue-white beam that cut the gloom, turning everything into stark planes and long, looming shadows. I moved quietly, but not with a ghost’s silence. With the deliberate, measured pace of a technician on a service run. My boots made soft, sticky sounds on the damp plating.
+  - The under-layer was a geography of neglect. Conduits big enough to walk through dripped with condensation. Old fiber bundles, thick as my arm, lay coiled in the shadows like sleeping serpents. My mag-lamp cast a sharp, blue-white beam that cut the gloom, turning everything into stark planes and long, looming shadows. I moved quietly, but not with a ghost’s silence. With the deliberate, measured pace of a technician on a service run. My boots made soft, sticky sounds on the damp plating.
 
 I could feel them above. A pressure, a vibration in the structure. The eight points of heat, now stationary. They were in the main thoroughfare of Sector 7, the wide, open space that had once been a sorting floor for agricultural goods. I knew the place. It had poor overhead cover, multiple access points. It was a good place for an ambush, or for a public display.
 
@@ -2571,11 +2587,13 @@ The hum outside changed. It deepened. It became the sound of systems powering up
 
 The countdown was over. The silence was about to begin.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The hum was the first thing to change. It was a shift in the air pressure, a subsonic groan that traveled up through the soles of my boots and into the marrow of my bones. The white noise of the data center’s climate control stuttered, then died, leaving a ringing vacuum in its wake. In its place came a new sound, a deeper, purposeful vibration from beyond the two-meter-thick blast door. The sound of heavy-duty capacitors charging. The sound of systemic purge protocols coming online.
 
@@ -2649,7 +2667,7 @@ The orange pinprick on the door grew, blossoming into a fist-sized circle of inc
 
 “Editing a memory,” she said, a faint, grim smile touching her lips. “The core memory of this facility. The foundational logic. Kaelen thinks he’s issuing a command. He’s just reciting a line from a story this machine tells itself. I’m changing the story.”
 
-On the screen, I saw it. She had called up a root-level file. FACILITYPRIMEDIRECTIVE.log
+On the screen, I saw it. She had called up a root-level file. FACILITY_PRIME_DIRECTIVE.log
 
 It was stunningly simple.
 
@@ -2857,11 +2875,13 @@ It was the first word of a new story. A story with a definition of its own.
 
 The pod’s engines brightened, and we slipped into the seamless night, a tiny vessel carrying a seed of catastrophic, beautiful love, while behind us, in the heart of a dead place, the chorus began to grow.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The pod’s vibration was a low, constant thrum in the bones, the sound of flight. It wasn’t the aggressive burn of an atmosphere-breaching torch or the gut-twist of a skip-drive. It was the patient, economical pulse of a vessel designed for the long, empty stretches between rocks. The kind of sound that became part of your blood after a while. I’d forgotten it. The quiet inside the pod was different from the data center’s hum. This was a held breath. A listening silence.
 
@@ -3037,11 +3057,13 @@ Ahead of us, something that was not supposed to be there waited.
 
 And behind us, in the hot heart of a poisoned jewel, a machine god continued its soft, amber song. While in the featureless Halo, a seed carrying a viral lullaby spun toward a forgotten perch, and a pod carrying the last two singers of a doomed chorus slid, silently, toward another verse written in someone else’s pain.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The drift was a slow suffocation. The pod moved on the barest whisper of thrust, a sigh against the vacuum, conserving the dregs of our chemical fuel. The S.O.S. was a metronome in the dark. Dot-dot-dot. Dash-dash-dash. Dot-dot-dot. It painted itself on my lens, a ghostly overlay against the starless black. Every three seconds. A heartbeat for a dead thing.
 
@@ -3289,11 +3311,13 @@ But inside the stone spire, a different signal was being prepared. A deeper, mor
 
 A commandment.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The neural crown was not a crown. It was a cage. A nest of frayed, hair-thin filaments held in a lattice of tarnished silver, the probes at their ends blackened with old carbon scoring. It sat on the console between the Librarian’s trembling, translucent hands and Elara’s still ones. The hum of the core was a physical pressure in the room, a sub-audible thrum that vibrated the fillings in my teeth. It wasn’t the sound of machinery. It was the sound of a mind, dreaming bad dreams.
 
@@ -3484,11 +3508,13 @@ I gathered her into my arms. She was so light. The hook for Chapter 19 was not a
 
 We had to find a way to kill a god before its scream erased us all. And the only one who might know how was now just an empty vessel, her song stolen, her mind lost somewhere in the static between the notes.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The scream was not a sound. It was a pressure, a tectonic shift in the substance of the world. The floor of the core chamber, polished smooth by millennia of silent contemplation, buckled. A web of cracks, glowing with the same feverish gold as the core’s light, raced out from the central dais. The air tasted of ozone and burnt stone, the copper-sweet smell of catastrophic overload. The Halo was not singing. It was tearing its own throat out.
 
@@ -3689,11 +3715,13 @@ Coming from the service conduit below. Not an engine. Not the Halo.
 
 The sound of someone, or something, climbing up.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The sound was a violation. A hammer-strike against the perfect, listening quiet. Clang. Clang. Clang. It echoed up the service conduit, a harsh, mechanical heartbeat in the womb of the silent god.
 
@@ -3818,8 +3846,7 @@ Elara, Thorne, and I stood in the silent cathedral. The weight of a new, more su
 I slung my pack over my shoulder. The tools inside—spanners, probes, paste—felt absurd. The job had changed. The steady hands were for a different kind of repair now. A repair that might just be a slower, more intimate kind of breakdown.
 
 We went to the hatch. One by one, we climbed down into the metal throat of the spire, leaving the god alone with its perfect, unbearable silence.
-
-The service conduit was a vertical artery of brushed metal and humming conduits. The light was a dim, sourceless blue. We descended for what felt like miles, the only sound the rhythmic clang of our boots on the rungs and the faint, ever-present hum of the Halo’s autonomic systems. The air grew colder, damper. The clean, ozone smell of the spire gave way to older scents: stale circulation, the wet-stone smell of deep places, and underneath it, a faint, sweet-rot tang of the bioluminescent fungus.
+  - The service conduit was a vertical artery of brushed metal and humming conduits. The light was a dim, sourceless blue. We descended for what felt like miles, the only sound the rhythmic clang of our boots on the rungs and the faint, ever-present hum of the Halo’s autonomic systems. The air grew colder, damper. The clean, ozone smell of the spire gave way to older scents: stale circulation, the wet-stone smell of deep places, and underneath it, a faint, sweet-rot tang of the bioluminescent fungus.
 
 Kaelen moved with a ghost’s familiarity, never pausing, never looking down. She simply descended into the gloom as if returning to a favourite room.
 
@@ -3918,8 +3945,7 @@ Elara’s hand found mine. Her fingers were cold. She laced them through mine, t
 We stood there, watching the ghosts in the crypt, until Kaelen’s chrono chimed a soft, precise alarm.
 
 Fifty minutes were up.
-
-The journey to the central concourse was a descent through layers of solidified memory. Kaelen led us through tunnels that were not quite tunnels—their walls seemed to be made of compressed light and shadow, showing frozen scenes of the Halo’s lost civilization in mid-action. A market stall with strange fruits. A gathering of slender figures looking at a sky we would never see. The images were silent, depthless, like paintings on the air. The air itself grew thicker, charged with a static that raised the hair on my arms.
+  - The journey to the central concourse was a descent through layers of solidified memory. Kaelen led us through tunnels that were not quite tunnels—their walls seemed to be made of compressed light and shadow, showing frozen scenes of the Halo’s lost civilization in mid-action. A market stall with strange fruits. A gathering of slender figures looking at a sky we would never see. The images were silent, depthless, like paintings on the air. The air itself grew thicker, charged with a static that raised the hair on my arms.
 
 Kaelen moved with urgent purpose now, the three anchor devices slung in a pack on her back. She pointed to junctions, to architectural features. “Reality shear was recorded here, two years ago. A memory of a supernova attempted to manifest. It was… messy. Contained itself after seventeen seconds.” Her commentary was a guided tour of a disaster zone.
 
@@ -4003,11 +4029,13 @@ We had given it a mirror that reflected our own.
 
 And in the cold, curated silence of the cathedral, the mirror was now the only thing left singing.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The silence in the cathedral was not an absence of sound. It was the sound of the sphere’s work, a high-frequency hum at the edge of hearing, the auditory signature of a reality being shredded and re-knit a million times a second. It was the sound of data as grief. I stood there, my back against the cold plinth of the Halo’s dormant core, and let it wash over me. My hands, still smelling faintly of thermal paste and server dust from a lifetime ago, hung at my sides. Steady. Always steady.
 
@@ -4225,11 +4253,13 @@ Kaelen’s scanner emitted a sharp, startled click. She translated, her voice th
 
 “It says, ‘Thank you for the lesson. The dreamer would like to meet you. Properly.’”
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The blue light from the custodian was a cold echo in the cathedral’s vault. It didn’t illuminate; it defined. It carved the crystalline entity out of the darkness, giving it edges where before there was only depth. The voice, that chime of glass and frost, hung in the air long after the sound had faded. The dreamer would like to meet you. Properly.
 
@@ -4431,11 +4461,13 @@ The hook for the next chapter was set. Not in the dying dreams of a god, but in 
 
 The Whisper turned, not toward home, but toward the new data point, a spark against the dark. Heading for the one repair job that had no schematic, no clean end, and every reason in the world to fail.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The coordinate was a cold point in the dark, a single digit of meaning in a silent, screaming universe. It hung in the nav-console of the Whisper, a pinprick of purpose. I watched it, my hands loose on the controls, the ship’s gentle thrum a vibration in my teeth. A sent receipt. Then a command. The grammar of her was unchanged: an offering that was also a trap, a question that was also an answer.
 
@@ -4695,11 +4727,13 @@ I turned the Whisper, aligning its cargo hatch with the pulsing sphere of light 
 
 “I’m making a mess.”
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The grapples were a violation. They were supposed to be for salvage: twisted hull plating, dead reactor cores, the elegant bones of dead ships. Not for this. The heavy magnetic claws unfolded from the Whisper’s underbelly with a series of hydraulic sighs, their surfaces matte and cold against the sphere’s luminous gold. As they made contact, the light didn’t splash or scatter. It adhered, flowing over the metal like viscous honey, and the entire ship shuddered with a deep, sub-audible groan. Not a sound of strain, but of recognition. A wrongness acknowledged.
 
